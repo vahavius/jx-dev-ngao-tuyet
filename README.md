@@ -7,7 +7,7 @@ jxwin Ngạo Tuyết
 ![test3](https://user-images.githubusercontent.com/42957164/45015190-19ff5600-b04b-11e8-9fc2-05ae52f174c8.png)
 ![test4](https://user-images.githubusercontent.com/42957164/45015236-4024f600-b04b-11e8-8694-93732ea16f12.png)
 
-![test5](https://photos.google.com/photo/AF1QipN2EO3auROy4nWI8zCYEBdaIfnTHx6ySomcH4FH)
+![test5](https://github.com/vahavius/jx-dev-ngao-tuyet/blob/master/images/1.png)
 
 
 3. Danh sách tính năng chuẩn
