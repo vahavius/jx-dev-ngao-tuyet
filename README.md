@@ -7,9 +7,6 @@ jxwin Ngạo Tuyết
 ![test3](https://user-images.githubusercontent.com/42957164/45015190-19ff5600-b04b-11e8-9fc2-05ae52f174c8.png)
 ![test4](https://user-images.githubusercontent.com/42957164/45015236-4024f600-b04b-11e8-8694-93732ea16f12.png)
 
-![test5](https://github.com/vahavius/jx-dev-ngao-tuyet/blob/master/images/1.png)
-
-
 3. Danh sách tính năng chuẩn
 3.1. Hệ thống kinh nghiệm và tiền vạn : cần điều chỉnh được
 Hệ thống rớt tiền vạn chuẩn VNG, tiền vạn bổ trợ 1 số chức năng đơn giản tránh nạn clone cày tiền Full Map. Đồ đạc vật phẩm sẽ được thông qua khi tham gia các sự kiện trong game mỗi ngày.
@@ -87,7 +84,7 @@ Hướng dẫn cài đặt
 Bước 1: Tải soure chuẩn về: https://github.com/vnshares/jx-dev/raw/master/JX-WIN-NgaoTuyet-Chuan.7z
 Bước 2: Tải Script và Settings về https://github.com/vnshares/jx-dev/raw/master/JX-WIN-NgaoTuyet-Script-Setting.7z
 Bước 3: Copy Script và Setting tải từ bước 2 bỏ vào bước 1. để được một server hoàn chỉnh
-image
+![test5](https://github.com/vahavius/jx-dev-ngao-tuyet/blob/master/images/1.png)
 
 Bước 4: Cấu hình Database và IP
 Video demo mẫu cài đặt jx win: https://www.youtube.com/watch?v=Zbo9jQ-KxGw
@@ -97,9 +94,11 @@ Chú ý một số lỗi:
 Kết nối SQL Server bằng IP:Port
 tetst
 tetst2
-
+![test2](https://github.com/vahavius/jx-dev-ngao-tuyet/blob/master/images/2.png)
+![test3](https://github.com/vahavius/jx-dev-ngao-tuyet/blob/master/images/3.png)
 Sửa lỗi nhiều card mạng: hiển thị hết các card mạng có thể có để xóa đi.
 tetst3
+![test5](https://github.com/vahavius/jx-dev-ngao-tuyet/blob/master/images/4.png)
 3. Sửa lỗi DB connect
 Mấy cái này các bạn cấu hình và đặt Pass theo ý cũa các bạn cái gì cũng được! Hướng dẫn cấu hình chi tiết ko bị lỗi Connect DB.
 
@@ -107,14 +106,18 @@ Trước tiên vào file :
 "StartupCfg.ini" chỉnh sữa Password "S3relay", Account và Pasword "Bishop" theo ý các bạn.<Hình 1>
 Hình 1:
 hinh1
+![hinh5](https://github.com/vahavius/jx-dev-ngao-tuyet/blob/master/images/5.jpg)
 
 Tiếp theo vào file "DataBase.ini" Chỉnh sữa PassWord <1,2,3> Giống Pass "S3relay" đã đặt ở file StartupCfg.ini" <Hình 2>.
 Hình 2:
 hinh2
+![hinh6](https://github.com/vahavius/jx-dev-ngao-tuyet/blob/master/images/6.jpg)
+
 Tiếp theo vào SQL = Enterprise Manager Vào phầnSecurity -> Logins
 ->SA Để phần Datbase là account và đặt PassWord giồng với PassWord S3relay" rồi xác nhận PassWord .<Hình 3>
 Hình 3:
 hinh3
+![hinh7](https://github.com/vahavius/jx-dev-ngao-tuyet/blob/master/images/7.jpg)
 Tiếp theo mở "JxStartup" lên nhấn qua phần "Cấu Hình Server"
 Cấu Hình:
 +Đường dẫn Server.
@@ -123,6 +126,8 @@ Cấu Hình:
 Say đó nhấn vào "Lưu Thiết Lập" ở góc phải khung, để nó lưu IP,Mac,PassWord ở fileServerlist trong Database! Vì PassWord trong file này mã hóa ko thể nhập thủ công được !<Hình 4 và 5>.
 Hình 4:
 hinh4
+![hinh8](https://github.com/vahavius/jx-dev-ngao-tuyet/blob/master/images/8.jpg)
 Hình 5:
 hinh5
+![hinh9](https://github.com/vahavius/jx-dev-ngao-tuyet/blob/master/images/9.jpg)
 
